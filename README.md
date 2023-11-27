@@ -5,6 +5,7 @@
 Welcome to the Spotify 2023 Top 10 Singers Analysis project!
 In this project, I have performed data cleaning and exploratory data analysis on the list of the top 1000 songs of 2023 on Spotify.
 The main focus is on identifying the top 10 singers with the highest number of songs on the list.
+[Dashboard Link](https://public.tableau.com/views/Book1-spotify_17005038856850/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 
